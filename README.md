@@ -5,12 +5,12 @@ ogo=linux&logoColor=black" />
 
 ## 📊 GitHub Stats & Achievements
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohsin32525&show_icons=true&theme=radical&count_private=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohsin32525&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahzad-Ali&show_icons=true&theme=radical&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzad-Ali&theme=radical" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohsin32525&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shahzad-Ali&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
